@@ -1,13 +1,3 @@
-## Climate Change Impacts to the Western States Endurance Course
-
-### 
-
-
-
-
-
-
-
 
 <iframe src="mock-up-draft-final.html" height="500" width="1100"></iframe>
 
