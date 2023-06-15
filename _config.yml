@@ -1,0 +1,10 @@
+theme: jekyll-theme-minimal
+
+title: Stoic Sustainability
+
+description: This tool contains data on the Global Warming Potential of ready-mix concrete, measured in kilograms of CO2 equivalent. This data is sourced from the Embodied Carbon in Construction Calculator (EC3) at www.buildingtransparency.org.
+#background: "#fafafa"
+#logo: you can upload a jpg to the git repo and call it here i.e. image.jpg 
+#You can also add a logo from an image URL, as below
+#logo: https://www.lawschool.cornell.edu/_cs_apps/pt_photo_gallery/uploads/mainphotogallery/fullsizeimage/Photogallery_Ithacapage_8.png
+
