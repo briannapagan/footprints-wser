@@ -1,3 +1,4 @@
+Join Dakota Jones from Footprints, Dr. Brianna Pagán from NASA and others Wednesday June 21st at Alpenglow Sports in Tahoe for a run and to have a discussion about how we can protect the trails we love.
 
 <style>
 .map-container {
