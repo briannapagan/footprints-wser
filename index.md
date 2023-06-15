@@ -5,7 +5,7 @@ Join Dakota Jones from Footprints, Dr. Brianna Pagán from NASA and others Wedne
     position: relative;
     width: 100%;
     height: 0;
-    padding-bottom: 56.25%; /* Aspect ratio for 16:9 */
+    padding-bottom: 80.25%; /* Aspect ratio for 16:9 */
 }
 .map-container iframe {
     position: absolute;
